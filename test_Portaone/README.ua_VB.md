@@ -76,3 +76,4 @@ Dim filename As String = "C:\test_Portaone\10m.txt"
 Час виконання
 
 Це завершить процес запуску та аналізу даних.
+![Result](result_VB.jpg)
